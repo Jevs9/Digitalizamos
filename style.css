@@ -286,8 +286,12 @@ td, th{
     nav{
         position: static;
     }
-     
-    .caja, .principal-contenido, .mapa-contenido, .contenido-diferenciales, .video, .servicios, .servicios li{
+   
+    .caja{
+        width: 400px;
+    }
+
+    .principal-contenido, .mapa-contenido, .contenido-diferenciales, .video, .servicios, .servicios li{
         width: auto;
     }
 
@@ -297,7 +301,7 @@ td, th{
     }
 
     .lista-diferenciales, .imagen-diferenciales{
-        width: auto;
+        width: 380px;
         margin: 2% 0 0 2%;
     }
 }
