@@ -8,9 +8,9 @@ header{
 }
 
 .caja{
-    width: 940px;
+    width: 50%;
     position: relative;
-    margin: 0 auto;
+    margin: 0 auto
     
 }
 
@@ -170,7 +170,7 @@ td, th{
 }
 
 .principal-contenido{
-    width: 940px;
+    width: 50%;
     margin: 0 auto;
     
 }
@@ -227,7 +227,7 @@ td, th{
 }
 
 .mapa-contenido{
-    width: 940px;
+    width: 50%;
     margin: 0 auto;    
 }
 
@@ -286,12 +286,12 @@ td, th{
     nav{
         position: static;
     }
-   
-    .caja{
-        width: 400px;
-    }
 
-    .principal-contenido, .mapa-contenido, .contenido-diferenciales, .video, .servicios, .servicios li{
+    nav li{
+        margin: 3%;
+    }
+   
+    .caja, .principal-contenido, .mapa-contenido, .contenido-diferenciales, .video, .servicios, .servicios li{
         width: auto;
     }
 
@@ -300,8 +300,13 @@ td, th{
         width: auto;
     }
 
-    .lista-diferenciales, .imagen-diferenciales{
-        width: 380px;
-        margin: 2% 0 0 2%;
+    .lista-diferenciales{
+        width: auto;
+        margin: 0;
+    }
+
+    .imagen-diferenciales{
+        width: 80%;
+        margin: 0 10%;
     }
 }
