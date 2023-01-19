@@ -1,4 +1,6 @@
-![img_readme](https://user-images.githubusercontent.com/103389569/213584341-d08a962f-ef14-4532-a8d6-74d198d4742b.jpg)
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/103389569/213584341-d08a962f-ef14-4532-a8d6-74d198d4742b.jpg>
+ </p>
 
 <h1 align="center"> Proyecto Página Web </h1>
 <p align="left">
@@ -15,7 +17,8 @@
 - Contacto
 
 ## :hammer: Caracteristicas principales
-- `Mapa de ubicación`: Proporcionado por googlemaps
+- `Información básica del emprendimiento`
+- `Mapa de ubicación`: Enlace de google maps
 - `Video promocional`: Enlace de youtube
 - `Animación en el apartado de servicios`
 - `Formulario de contacto`
